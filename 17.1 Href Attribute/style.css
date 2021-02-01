@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.body  {
+    font-family: 'Roboto' , sans-serif;
+    color: #b668e9
+
+}
+
+h1 {
+    color: #b668e9
+}
+
+a[target="_blank"]:after {
+    content: 'https://www.codecademy.com/';
+}
