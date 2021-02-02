@@ -7,31 +7,6 @@
   
 }
 
-body {
-  display:-webkit-inline-box;
-  height: 100vh;
-  /* justify-content: center; */
-  /* align-items: center */
-}
-/* body {
-    display: flex;
-    height: 100vh;
-    justify-content: center;
-    align-items: center   
-}
-
-h1 {
-    font-family: 'Roboto' , sans-serif;
-    color: #ffffff;
-    position: relative;
-    z-index: 1;
-    text-align: center;
-    height: 150spx;
-    width: 200px;
-    margin: auto;
-    line-height: 10
-} */
-
 .container{
   background-color: black;
   height: 200px;

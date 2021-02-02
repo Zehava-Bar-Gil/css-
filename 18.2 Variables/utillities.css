@@ -1,0 +1,8 @@
+/* Text-colors */
+.text-primary {
+    color: var(--light-color);
+}
+
+.text-secondary {
+    color: #f8e57c;
+}
